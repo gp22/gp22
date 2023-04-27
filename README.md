@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on DeFi and Web3 security projects.
 
 ### Contact 📫
-- [Twitter](https://twitter.com/paul_garcia_dev)
+- [Twitter](https://twitter.com/0xPaulGarcia)
